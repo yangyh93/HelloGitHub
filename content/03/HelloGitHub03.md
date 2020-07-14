@@ -27,16 +27,18 @@
 - [其它](#其它)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### CSS 项目
-1、[animate.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/daneden/animate.css)：提供炫酷动画效果，同时方便、易用、跨浏览器的 CSS 库。[在线演示](https://daneden.github.io/animate.css/)
+1、[animate.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/animate-css/animate.css)：提供炫酷动画效果，同时方便、易用、跨浏览器的 CSS 库。[在线演示](https://daneden.github.io/animate.css/)
 
 2、[mui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dcloudio/mui)：最接近原生 APP 体验的高性能框架。性能和体验的差距，一直是 mobile App 开发者放弃 HTML5 的首要原因。mui 框架有效的解决了这些问题，这是一个可以方便开发出高性能 App 的框架，也是目前最接近原生 App 效果的框架。[mui 官网](http://dev.dcloud.net.cn/mui/)
 
@@ -89,12 +91,12 @@
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/HelloGitHub02.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/04/HelloGitHub04.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/HelloGitHub02.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/04/HelloGitHub04.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

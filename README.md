@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a>
-  <br><strong>HelloGitHub</strong> 一个分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
+  <br><strong>HelloGitHub</strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
 
 <p align="center">
@@ -16,16 +16,18 @@
 
 希望通过本项目能够有更多人加入到开源社区、回馈社区。**让有趣、有价值的项目被更多人发现和加入**。在参与这些项目的过程中，你将得到：**热爱编程的小伙伴**🕺 、**更多编程知识**📚 、**优秀的编程技巧**💻 、**找到编程的乐趣**🎮 。
 
-- **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日项目推荐+抽奖。
-- **『讲解开源项目』** 欢迎开源爱好者给我们投稿[查看创作须知](https://github.com/HelloGitHub-Team/Article/blob/master/%E5%88%9B%E4%BD%9C%E9%A1%BB%E7%9F%A5.md)。
+- **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日项目推荐。
+- **『讲解开源项目』** 有趣的项目不知道怎么运行和玩耍？[点击阅读](https://github.com/HelloGitHub-Team/Article)讲解开源系列。
 
 
 ## 内容
 每月 28 号发布[最新一期](/content/last.md) | [官网](https://hellogithub.com) 
 
-| :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
+| :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 44 期](/content/44/HelloGitHub44.md) | [第 43 期](/content/43/HelloGitHub43.md) | [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
+| [第 51 期](/content/51/HelloGitHub51.md) |
+| [第 50 期](/content/50/HelloGitHub50.md) | [第 49 期](/content/49/HelloGitHub49.md) | [第 48 期](/content/48/HelloGitHub48.md) | [第 47 期](/content/47/HelloGitHub47.md) | [第 46 期](/content/46/HelloGitHub46.md) |
+| [第 45 期](/content/45/HelloGitHub45.md) | [第 44 期](/content/44/HelloGitHub44.md) | [第 43 期](/content/43/HelloGitHub43.md) | [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
 | [第 40 期](/content/40/HelloGitHub40.md) | [第 39 期](/content/39/HelloGitHub39.md) | [第 38 期](/content/38/HelloGitHub38.md) | [第 37 期](/content/37/HelloGitHub37.md) | [第 36 期](/content/36/HelloGitHub36.md) |
 | [第 35 期](/content/35/HelloGitHub35.md) | [第 34 期](/content/34/HelloGitHub34.md) | [第 33 期](/content/33/HelloGitHub33.md) | [第 32 期](/content/32/HelloGitHub32.md) | [第 31 期](/content/31/HelloGitHub31.md) |
 | [第 30 期](/content/30/HelloGitHub30.md) | [第 29 期](/content/29/HelloGitHub29.md) | [第 28 期](/content/28/HelloGitHub28.md) | [第 27 期](/content/27/HelloGitHub27.md) | [第 26 期](/content/26/HelloGitHub26.md) |
@@ -37,58 +39,39 @@
 
 欢迎[推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new)成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) 
 
+
+## 赞助
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.nowcoder.com?from=hellogithub">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/nowcoder.jpg" width="50px"><br>
+          <sub>牛客网</sub><br>
+          <sub>IT 面试/笔试题库</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.ucloud.cn/site/active/1111.html?invitation_code=C1xF2ECA89A2592">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
+          <sub>UCloud</sub><br>
+          <sub>88 元/年云主机</sub>
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
+
 ## 贡献者
 <table>
   <tbody>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://github.com/521xueweihan">
-          <img src="https://avatars2.githubusercontent.com/u/8255800?s=50&v=4" style="width: 50px;"><br>
-          <sub>削微寒</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/ming995">
-          <img src="https://avatars0.githubusercontent.com/u/46031112?s=50&v=4" style="width: 50px;"><br>
-          <sub>糖醋里脊</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/FrontMage">
-          <img src="https://avatars0.githubusercontent.com/u/17007026?s=50&v=4" style="width: 50px;"><br>
-          <sub>FrontMage</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/xibinyue">
-          <img src="https://avatars0.githubusercontent.com/u/14122146?s=50&v=4" style="width: 50px;"><br>
-          <sub>xibinyue</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/Eurus-Holmes">
-          <img src="https://avatars3.githubusercontent.com/u/34226570?s=50&v=4" style="width: 50px;"><br>
-          <sub>Feiyang Chen</sub>
-        </a><br>
-      </th>
-    </tr>
-    <tr>
-      <th align="center" style="width: 80px;">
         <a href="https://github.com/ChungZH">
           <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
           <sub>ChungZH</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/daixiang0">
-          <img src="https://avatars3.githubusercontent.com/u/26538619?s=50&v=4" style="width: 50px;"><br>
-          <sub>daixiang0</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/nivance">
-          <img src="https://avatars3.githubusercontent.com/u/3291404?s=50&v=4" style="width: 50px;"><br>
-          <sub>nivance</sub>
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
@@ -107,38 +90,6 @@
   </tbody>
 </table>
 
-
-## 合作组织
-欢迎各种:octocat:开源组织合作[点击联系我](Mailto:595666367@qq.com)
-
-<table>
-  <thead>
-    <tr>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/FGDBTKD">
-          <img src="https://avatars3.githubusercontent.com/u/40509403?s=50&v=4" style="width: 50px;"><br>
-          <sub>FGDBTKD</sub><br>
-          <sub>AI/ML/DL/NLP</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/d2-projects">
-          <img src="https://avatars3.githubusercontent.com/u/40857578?s=50&v=4" style="width: 50px;"><br>
-          <sub>D2 Projects</sub><br>
-          <sub>Vue/JavaScript</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/doocs">
-          <img src="https://avatars1.githubusercontent.com/u/43716716?s=50&v=4" style="width: 50px;"><br>
-          <sub>Doocs</sub><br>
-          <sub>Technical Knowledge</sub>
-        </a><br>
-      </th>
-    </tr>
-  </thead>
-</table>
-                    
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
 

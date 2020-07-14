@@ -31,16 +31,18 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C++ 项目
-1、[Terminal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Terminal)：微软开源的一个全新、现代、功能丰富、高效的 Windows 终端应用程序。它支持 Windows 命令行社区最常用的许多命令，还支持选项卡、富文本、全球化、可配置性、主题和样式等功能。一直以来 Windows 不被开发者青睐的原因之一就是终端不好用，现在有了这个我都想买个 Windows 系统的电脑了（确定不是打游戏？）
+1、[terminal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/terminal)：微软开源的一个全新、现代、功能丰富、高效的 Windows 终端应用程序。它支持 Windows 命令行社区最常用的许多命令，还支持选项卡、富文本、全球化、可配置性、主题和样式等功能。一直以来 Windows 不被开发者青睐的原因之一就是终端不好用，现在有了这个我都想买个 Windows 系统的电脑了（确定不是打游戏？）
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Terminal.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -137,7 +139,7 @@ holder.showEmpty()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Gloading.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[Android-BLE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Alex-Jerry/Android-BLE)：Android 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级等。近乎一行代码植入项目，可扩展、配置蓝牙相关操作，适用于 Android-BLE4.0 蓝牙。即便是 BLE 方面的小白也可以在短短几分钟内接入并运用到项目中
+12、[Android-BLE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aicareles/Android-BLE)：Android 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级等。近乎一行代码植入项目，可扩展、配置蓝牙相关操作，适用于 Android-BLE4.0 蓝牙。即便是 BLE 方面的小白也可以在短短几分钟内接入并运用到项目中
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Android-BLE.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -197,7 +199,7 @@ Modified var:.. number = 3
 
 20、[Zvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/5A59/Zvm)：一款用 Python 实现的简易 JVM。实现功能如下：class 文件解析、类加载、运行时数据区、指令解释器、基本指令集、简易 GC、简易线程、简易 JDK 库，可以运行基本的 Java class 文件。代码量少，模块清晰，适合用来学习 JVM 的基本结构和实现
 
-21、[city-vein](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/96486d9b/city-vein)：用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。[在线浏览](https://96486d9b.github.io/city-vein/)
+21、[city-vein](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/conv1d/city-vein)：用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。[在线浏览](https://96486d9b.github.io/city-vein/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/city-vein.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -228,7 +230,7 @@ Modified var:.. number = 3
 
 27、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
 
-28、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/avelino/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
+28、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
 - 轻量：包含少且必要的插件
 - 易用：适合在vim中成功存活的入门者
 - 易于定制：只需选择使用的语言,即可获得对应配置
@@ -242,7 +244,7 @@ Modified var:.. number = 3
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 教程
-30、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
+30、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
 
 31、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
 
@@ -251,7 +253,7 @@ Modified var:.. number = 3
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-32、[bentoml](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bentoml/bentoml)：一个机器学习工具用来打包和发布模型。帮助数据科学家用不到 5 分钟把在 ipython notebook 里的模型发布到生产环境
+32、[BentoML](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bentoml/BentoML)：一个机器学习工具用来打包和发布模型。帮助数据科学家用不到 5 分钟把在 ipython notebook 里的模型发布到生产环境
 ```python
 %%writefile iris_classifier.py
 from bentoml import BentoService, api, env, artifacts
@@ -286,12 +288,12 @@ class IrisClassifier(BentoService):
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/37/HelloGitHub37.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/39/HelloGitHub39.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/37/HelloGitHub37.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/39/HelloGitHub39.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

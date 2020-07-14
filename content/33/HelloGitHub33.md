@@ -32,13 +32,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[json-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/miloyip/json-tutorial)：由[Milo Yip](https://github.com/miloyip/json-tutorial#%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85)发起的用 C 从零开始编写 JSON 库教程。大纲：
@@ -72,7 +74,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/ptt-daily-beauty.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[q](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/y0ssar1an/q)：Golang debug 库，自动打印变量类型并且格式化输出
+6、[q](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ryboe/q)：Golang debug 库，自动打印变量类型并且格式化输出
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/q.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -103,7 +105,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/better-onetab.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[lint-md](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hustcc/lint-md)：用于检查中文 markdown 编写格式规范的命令行工具。方便集成 CI，支持 API 方法调用。对于矫正 markdown 编写格式来说是一个很好的检查工具，基于 AST 的格式规范检测的代码也可以借鉴和学习
+11、[lint-md](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lint-md/lint-md)：用于检查中文 markdown 编写格式规范的命令行工具。方便集成 CI，支持 API 方法调用。对于矫正 markdown 编写格式来说是一个很好的检查工具，基于 AST 的格式规范检测的代码也可以借鉴和学习
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/lint-md.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -116,11 +118,11 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
-14、[iSH](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tbodt/ish)：在 iOS 上跑 Linux shell，可以通过 linux 命令操作你的 iOS 设备
+14、[ish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ish-app/ish)：在 iOS 上跑 Linux shell，可以通过 linux 命令操作你的 iOS 设备
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/ish.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[Nudeln](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hon-key/Nudeln)：基于 UITextView 书写风格类似于 masonry 的 iOS 端富文本控件。它采用声明式（链式）方法定义富文本控件，与编程式的相比它所需的代码量更短、更直观和易用。示例代码：
+15、[NudeIn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hon-key/NudeIn)：基于 UITextView 书写风格类似于 masonry 的 iOS 端富文本控件。它采用声明式（链式）方法定义富文本控件，与编程式的相比它所需的代码量更短、更直观和易用。示例代码：
 ```
 #import "NudeIn.h"
 
@@ -168,7 +170,7 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
-18、[MeEdu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qsnh/meedu)：开源免费的在线教育系统，支持在线点播、在线电子书、会员收费三大模块。[在线尝试](https://meedu.app/)
+18、[meedu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qsnh/meedu)：开源免费的在线教育系统，支持在线点播、在线电子书、会员收费三大模块。[在线尝试](https://meedu.app/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -183,67 +185,59 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/mkdocs.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[weixin_crawler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wonderfulsuccess/weixin_crawler)：基于 Scrapy、Flask、Echarts、Elasticsearch 等实现的微信公众号文章爬虫。自带 UI 界面、分析报告、搜索功能
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/weixin_crawler.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-23、[Back-End-Developer-Interview-Questions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)：《后端开发面试题》[中文](https://github.com/monklof/Back-End-Developer-Interview-Questions)
+22、[Back-End-Developer-Interview-Questions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)：《后端开发面试题》[中文](https://github.com/monklof/Back-End-Developer-Interview-Questions)
 
-24、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/weekly)：[阮一峰](https://github.com/ruanyf)技术分享周刊，每周五发布
+23、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/weekly)：[阮一峰](https://github.com/ruanyf)技术分享周刊，每周五发布
 
-25、[codelf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/unbug/codelf)：变量命名工具。计算机科学里两件最难的事：缓存失效和命名。该工具支持直接搜索中文，当你查中文的时候，Codelf 会直接查好单词和单词的近义词给你。然后再搜索 Github、Bitbucket、Google Code 等上的开源项目的源码匹配出与这些词汇相关的变量名和函数名。[在线尝试](https://unbug.github.io/codelf/)
+24、[codelf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/unbug/codelf)：变量命名工具。计算机科学里两件最难的事：缓存失效和命名。该工具支持直接搜索中文，当你查中文的时候，Codelf 会直接查好单词和单词的近义词给你。然后再搜索 Github、Bitbucket、Google Code 等上的开源项目的源码匹配出与这些词汇相关的变量名和函数名。[在线尝试](https://unbug.github.io/codelf/)
 
-26、[the-art-of-command-line](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jlevy/the-art-of-command-line)：该项目是作者在 Linux 系统上工作时，发现的一些命令行使用技巧的总结。有些技巧非常基础，而另一些则相当复杂，甚至难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了，它们会提高你在编程时的灵活性以及效率。[中文](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+25、[the-art-of-command-line](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jlevy/the-art-of-command-line)：该项目是作者在 Linux 系统上工作时，发现的一些命令行使用技巧的总结。有些技巧非常基础，而另一些则相当复杂，甚至难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了，它们会提高你在编程时的灵活性以及效率。[中文](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
-27、[nginxconfig.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/valentinxxx/nginxconfig.io)：在线生成 Nginx 配置文件网站，[在线尝试](https://nginxconfig.io/)
+26、[nginxconfig.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digitalocean/nginxconfig.io)：在线生成 Nginx 配置文件网站，[在线尝试](https://nginxconfig.io/)
 
-28、[cool-retro-term](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Swordfish90/cool-retro-term)：一个终端模拟器，模仿了老式阴极管屏幕的外观和视觉感觉，养眼、轻量且外观可调，支持 Linux、macOS。搭配上 Vim 或 Emacs，即刻获得与上个世纪 hackers 相同的编程体验
+27、[cool-retro-term](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Swordfish90/cool-retro-term)：一个终端模拟器，模仿了老式阴极管屏幕的外观和视觉感觉，养眼、轻量且外观可调，支持 Linux、macOS。搭配上 Vim 或 Emacs，即刻获得与上个世纪 hackers 相同的编程体验
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/cool-retro-term.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-29、[Cpp_Concurrency_In_Action](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action)：《C++ Concurrency in Action》的中文翻译版（C++ 并发编程），[在线阅读](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
+28、[Cpp_Concurrency_In_Action](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action)：《C++ Concurrency in Action》的中文翻译版（C++ 并发编程），[在线阅读](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
 
-30、[ddia](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Vonng/ddia)：《Designing Data-Intensive Application》中文翻译版（设计数据密集型应用）
+29、[ddia](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Vonng/ddia)：《Designing Data-Intensive Application》中文翻译版（设计数据密集型应用）
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-31、[MTCNN_face_detection_alignment](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kpzhang93/MTCNN_face_detection_alignment)：人脸检测领域经典之作，出自 2016 年 ECCV 一篇[论文](https://kpzhang93.github.io/MTCNN_face_detection_alignment/paper/spl.pdf)。目前在工业应用中落地比较成功，很多公司检测模块运用 MTCNN 或者其加速版，MTCNN 将人脸检测和关键点检测通过一个模型作为 MultiTasks 的方式进行训练，inference 时候可同时得到人脸框信息和关键点信息
+30、[MTCNN_face_detection_alignment](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kpzhang93/MTCNN_face_detection_alignment)：人脸检测领域经典之作，出自 2016 年 ECCV 一篇[论文](https://kpzhang93.github.io/MTCNN_face_detection_alignment/paper/spl.pdf)。目前在工业应用中落地比较成功，很多公司检测模块运用 MTCNN 或者其加速版，MTCNN 将人脸检测和关键点检测通过一个模型作为 MultiTasks 的方式进行训练，inference 时候可同时得到人脸框信息和关键点信息
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/MTCNN_face_detection_alignment.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[FaceBoxes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zeusees/FaceBoxes)：出自论文 [FaceBoxes: A CPU Real-time Face Detector with High Accuracy](http://cn.arxiv.org/abs/1708.05234)，是一种可以在 CPU 上实现实时检测的方法，而且精度不错。该项目是 Caffe 版本，步骤讲解清晰，可以快速复现。鉴于 FaceBoxes 的检测速度非常快，也可以作为一种生产落地的方法，并且现有速度仍有一定的优化空间
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/FaceBoxes.png' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[SSH](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mahyarnajibi/SSH)：该项目是 ICCV2017 论文 [SSH:Single Stage Headless Face Detector](https://arxiv.org/abs/1708.03979) 
+31、[SSH](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mahyarnajibi/SSH)：该项目是 ICCV2017 论文 [SSH:Single Stage Headless Face Detector](https://arxiv.org/abs/1708.03979) 
  作者自己开源的项目，算是官方开源项目，具有一定的权威性。SSH 也算是人脸检测中一个经典的方法，具有较高的精度和较快的速度。项目实现了论文中的很多细节，对复现过程也有详细的讲解，容易实现。美中不足的是论文中的 Pyramid 方式，该项目没有实现
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/SSH.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[S3FD.pytorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yxlijun/S3FD.pytorch)：该项目是论文 [S3FD:Single Shot Scale-invariant Face Detector](https://arxiv.org/abs/1708.05237) 的 pytorch 复现版本。S3FD 目前在 FDDB 的评测中排在前几位，属于精度较高的人脸检测方法。论文主要解决人脸尺度问题，进一步提升对小脸的检测
+32、[S3FD.pytorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yxlijun/S3FD.pytorch)：该项目是论文 [S3FD:Single Shot Scale-invariant Face Detector](https://arxiv.org/abs/1708.05237) 的 pytorch 复现版本。S3FD 目前在 FDDB 的评测中排在前几位，属于精度较高的人脸检测方法。论文主要解决人脸尺度问题，进一步提升对小脸的检测
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/S3FD_pytorch.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[deep-learning-papers-translation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SnailTyan/deep-learning-papers-translation)：主要内容是 CV 领域里一些论文的翻译，包括分类、检测、OCR和模型轻量化。不喜欢看英文原版论文的，可以关注该项目
+33、[deep-learning-papers-translation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SnailTyan/deep-learning-papers-translation)：主要内容是 CV 领域里一些论文的翻译，包括分类、检测、OCR和模型轻量化。不喜欢看英文原版论文的，可以关注该项目
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/32/HelloGitHub32.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/34/HelloGitHub34.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/32/HelloGitHub32.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/34/HelloGitHub34.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

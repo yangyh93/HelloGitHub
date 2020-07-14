@@ -34,13 +34,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[SuperWeChatPC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anhkgg/SuperWeChatPC)：这是一个超级微信电脑客户端。没错，是超级！因为它不仅是一个微信电脑客户端，还支持以下功能：
@@ -70,7 +72,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-6、[nps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cnlh/nps)：一款功能强大、轻量级的内网穿透代理服务器。支持 TCP 和 UDP 流量转发、支持内网 HTTP 代理、内网 socks5 代理、snappy 压缩、站点保护、加密传输、多路复用等功能。拥有 web 图形化管理，集成多用户模式。可以自搭建内网穿透代理服务，用来替代付费的内网穿透服务。又不像其他类似项目依赖命令行，它有图形页面。安装：
+6、[nps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ehang-io/nps)：一款功能强大、轻量级的内网穿透代理服务器。支持 TCP 和 UDP 流量转发、支持内网 HTTP 代理、内网 socks5 代理、snappy 压缩、站点保护、加密传输、多路复用等功能。拥有 web 图形化管理，集成多用户模式。可以自搭建内网穿透代理服务，用来替代付费的内网穿透服务。又不像其他类似项目依赖命令行，它有图形页面。安装：
 ```
 go get -u github.com/cnlh/nps
 go build cmd/nps/nps.go # 服务端程序
@@ -163,7 +165,7 @@ console.log(uuid());
 console.log(dateFormat(now(), "yyyy-mm-dd"));
 ```
 
-19、[cdfang-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yhlben/cdfang-spider)：成都房源统计的数据可视化项目。该项目统计了成都开盘以来所有的房源信息，帮助想在成都买房的同学提供一些可视化的数据分析，比房协网官方的数据更直观，分析更透彻。此项目包含了一套完整的源代码，以及详细的项目搭建文档，开发者可以根据搭建文档一步一步搭建这个项目。可以帮助开发者学习前端，后端，数据库端，单元测试，持续集成等全套知识。基于此项目，你可以做任何地区的房源信息可视化，让数据说话
+19、[cdfang-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lmjben/cdfang-spider)：成都房源统计的数据可视化项目。该项目统计了成都开盘以来所有的房源信息，帮助想在成都买房的同学提供一些可视化的数据分析，比房协网官方的数据更直观，分析更透彻。此项目包含了一套完整的源代码，以及详细的项目搭建文档，开发者可以根据搭建文档一步一步搭建这个项目。可以帮助开发者学习前端，后端，数据库端，单元测试，持续集成等全套知识。基于此项目，你可以做任何地区的房源信息可视化，让数据说话
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/cdfang-spider.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -236,7 +238,7 @@ $ rubocop
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/git-open.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[getAwayBSG](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jiangwei1995910/getAwayBSG)：项目名为“逃离北上广”，该项目通过爬取的招聘和房价数据。给准备逃离北上广等一线城市，却又找不到去处的 IT 人士提供了一些可视化数据作为建议
+30、[getAwayBSG](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jinnrry/getAwayBSG)：项目名为“逃离北上广”，该项目通过爬取的招聘和房价数据。给准备逃离北上广等一线城市，却又找不到去处的 IT 人士提供了一些可视化数据作为建议
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/getAwayBSG.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -256,7 +258,7 @@ $ rubocop
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-36、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zxqfl/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
+36、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codota/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
 
 37、[hub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pytorch/hub)：一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！妈妈再也不用担心你的模型啦！示例代码：
 ```
@@ -330,12 +332,12 @@ forward(input_ids, token_type_ids=None, attention_mask=None, masked_lm_labels=No
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/39/HelloGitHub39.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/41/HelloGitHub41.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/39/HelloGitHub39.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/41/HelloGitHub41.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

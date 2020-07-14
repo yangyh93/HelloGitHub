@@ -24,13 +24,15 @@
 - [其它](#其它)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### Java 项目
 1、[cachecloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sohutv/cachecloud)：搜狐视频开源的 CacheCloud 项目，提供了一个 Redis 云管理平台，功能强大，教程详细（有视频教程），文档齐全，**企业级开源项目**
@@ -46,7 +48,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zingtouch-show.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[zhihudaily-vue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatessss/zhihudaily-vue)：用 Vue.js 写的知乎日报手机 Web 版，[展示](http://zhihudaily-vue.yatessss.com/)，需打开 chrome 浏览器的手机模拟功能，来获得比较好的浏览效果。访问展示图如下：
+3、[zhihudaily-vue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatessss/zhihudaily-vue)：用 Vue.js 写的知乎日报手机 Web 版，需打开 chrome 浏览器的手机模拟功能，来获得比较好的浏览效果。访问展示图如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zhihu-vue-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -54,7 +56,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-4、[python-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kennethreitz/python-guide)：Requests 库的作者——kennethreitz，写的 Python 入门教程。不单单是语法层面的，涵盖项目结构、代码风格，进阶、工具等方方面面。虽然是**英文版**([中文翻译版](http://pythonguidecn.readthedocs.io/zh/latest/))，但我这个英语渣都能看懂，你肯定也可以，快去看看吧，开卷有益。[在线阅读](http://docs.python-guide.org/en/latest/)
+4、[python-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/realpython/python-guide)：Requests 库的作者——kennethreitz，写的 Python 入门教程。不单单是语法层面的，涵盖项目结构、代码风格，进阶、工具等方方面面。虽然是**英文版**([中文翻译版](http://pythonguidecn.readthedocs.io/zh/latest/))，但我这个英语渣都能看懂，你肯定也可以，快去看看吧，开卷有益。[在线阅读](http://docs.python-guide.org/en/latest/)
 
 5、[flask-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flask-admin/flask-admin)：我工作中需要写一个微型的管理系统，用的就是这个框架。简直快餐型，页面都写好了，只要设置好相关配置就可以跑起来了。唯一缺点就是文档中的例子少，开发一些特定的需求需要自己看源码，才能知道如何改。[文档](https://flask-admin.readthedocs.io/en/latest/)，下面是我跑起来之后的样子：
 
@@ -87,12 +89,12 @@
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/HelloGitHub03.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/05/HelloGitHub05.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/HelloGitHub03.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/05/HelloGitHub05.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
